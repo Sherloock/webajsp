@@ -84,7 +84,7 @@
         <div class="topnav">
             <a href="index.jsp">Kezdőlap</a>
             <a href="kategoriak.jsp">Kategóriák</a>
-            <a href="#contact">GDPR</a>
+            <a href="gdpr.jsp">GDPR</a>
             <a href="elerhetosegek.jsp">Elérhetőségek</a>
             <div class="search- container">
                 <form action="/action_page.php">
