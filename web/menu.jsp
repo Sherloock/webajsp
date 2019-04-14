@@ -82,13 +82,13 @@
     <body>
 
         <div class="topnav">
-            <a class="active" href="#home">Kezdőlap</a>
-            <a href="#categories">Kategóriák</a>
+            <a href="index.jsp">Kezdőlap</a>
+            <a href="kategoriak.jsp">Kategóriák</a>
             <a href="#contact">GDPR</a>
-            <a href="#contact">Elérhetőségek</a>
+            <a href="elerhetosegek.jsp">Elérhetőségek</a>
             <div class="search- container">
                 <form action="/action_page.php">
-                    <input type="text" placeholder="Search.." name="search">
+                    <input type="text" placeholder="Keresés.." name="search">
                     <button type="submit"><i class="fa fa-search"></i></button>
                 </form>
             </div>
